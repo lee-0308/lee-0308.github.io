@@ -1,15 +1,13 @@
 ---
 title: Starter Note
-date: 2025-01-20
+date: 2025-01-19
 categories:
   - Data Annalysis
 tags:
-  - "#내일배움캠프"
+  - 내일배움캠프
 toc: true
 toc_sticky: true
 ---
-#내일배움캠프 
-
 1. 내가 데이터 분석 트랙에 참여한 계기는 무엇인가요?
     - IT 관련 직무 중에서 나랑 제일 잘 맞을 것 같은 분야라서 데이터 분석 트랙에 참여했습니다.
 
