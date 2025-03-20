@@ -2,7 +2,7 @@
 title: Starter Note
 date: 2025-01-19
 categories:
-  - Data Annalysis
+  - Data Analysis
 tags:
   - 내일배움캠프
 toc: true
